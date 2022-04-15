@@ -17,4 +17,8 @@
     <ProjectReference Include="..\BethanysPiesShopHRM.Shared\BethanysPiesShopHRM.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\uploads\" />
+  </ItemGroup>
+
 </Project>
